@@ -155,6 +155,9 @@ end
 # ╔═╡ 3dd6a0b7-405c-463d-8cc8-359d58e2da48
 prob2()
 
+# ╔═╡ ca86274b-dec5-4af0-8ced-1195608cc1d5
+length(data)
+
 # ╔═╡ Cell order:
 # ╠═92feb8d4-b3d4-11ef-129e-65d81de78372
 # ╟─2b864bf1-c195-4590-a418-434f69d0e749
@@ -163,3 +166,4 @@ prob2()
 # ╟─92bbb9a8-8d1e-419c-9e67-e9b3946393dd
 # ╠═5f37127b-f2e2-404e-837c-cc986537633b
 # ╠═3dd6a0b7-405c-463d-8cc8-359d58e2da48
+# ╠═ca86274b-dec5-4af0-8ced-1195608cc1d5
